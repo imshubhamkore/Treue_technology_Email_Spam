@@ -1,5 +1,5 @@
 # Treue_technology_Email_Spam
-Email spam detection
+Email spam detection.
  
 One of the primary methods for spam mail detection is email filtering. It involves categorizing incoming emails into spam and non-spam. Machine learning algorithms can be trained to filter out spam mail based on its content and metadata.
 
